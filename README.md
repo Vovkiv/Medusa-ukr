@@ -1,5 +1,5 @@
 # /Medusa/ - Українською
-![обкладинка](https://github.com/Vovkiv/fanfic-translation-template/blob/main/src/cover-ukr.png?raw=true)
+![обкладинка](https://github.com/Vovkiv/Medusa-ukr/blob/main/src/cover-ukr.png?raw=true)
 
 /Medusa is like every other seapony. She's just a little ill, right now./
 
