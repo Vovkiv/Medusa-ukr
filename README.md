@@ -1,7 +1,7 @@
-# /Назва Фанфіка/ - Українською
+# /Medusa/ - Українською
 ![обкладинка](https://github.com/Vovkiv/fanfic-translation-template/blob/main/src/cover-ukr.png?raw=true)
 
-/перекладений опис фанфіка з fimfiction/
+/Medusa is like every other seapony. She's just a little ill, right now./
 
 # Як відкрити? Де фанфік?
 пдф файл: https://github.com/Vovkiv/fanfic-translation-template/blob/main/fic-ukr.pdf
@@ -29,10 +29,10 @@
 Тоді ви можете написати мені тут: [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts)
 
 # Original fic:
-https://www.fimfiction.net/story/посилання_на_фанфік
+https://www.fimfiction.net/story/527169/medusa
 
 # Original cover:
-https://посилання_на_обкладинку
+https://derpibooru.org/images/2658012
 
 # Слідкувати за процесом перекладу і іншими фанфіками, які я вже переклав можна тут:
 https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate
