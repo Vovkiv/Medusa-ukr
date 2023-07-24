@@ -32,7 +32,7 @@
 https://www.fimfiction.net/story/527169/medusa
 
 # Original cover:
-https://derpibooru.org/images/2658012
+https://derpibooru.org/images/2658012, https://derpibooru.org/profiles/Cahan, aka Cahan
 
 # Слідкувати за процесом перекладу і іншими фанфіками, які я вже переклав можна тут:
 https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate
